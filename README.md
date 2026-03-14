@@ -1,4 +1,4 @@
-> # **🚀 PRODIGY\_GA\_02 — Image Generation using Diffusers and StableDiffussion**
+> # **🚀Image Generation using Diffusers and StableDiffussion**
 
 This repository contains **Task 2: Image Generation Project** as part of my **Generative AI Internship at Prodigy Infotech**, where I generated images from text prompts using Hugging Face’s Diffusers library and Stable Diffusion model.
 
